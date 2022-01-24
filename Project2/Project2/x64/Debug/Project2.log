@@ -1,4 +1,0 @@
-﻿  MyForm.cpp
-C:\Users\spc23\Desktop\Nowy folder (2)\Project2\Project2\MyForm.h(405,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  Header.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Project2.vcxproj -> C:\Users\spc23\Desktop\Nowy folder (2)\Project2\x64\Debug\Project2.exe
